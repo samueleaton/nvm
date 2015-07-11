@@ -1,3 +1,8 @@
+<br>
+<p align="center">
+    <img height="64" width="300" src="https://raw.githubusercontent.com/samueleaton/design/master/nvm_logo.png">
+</p>
+<br>
 # Node Version Manager [![Build Status](https://travis-ci.org/creationix/nvm.svg?branch=master)][3]
 
 ## Installation
